@@ -1,0 +1,1 @@
+# qovery-rust-rocket-sample
